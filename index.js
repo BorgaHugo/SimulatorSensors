@@ -4,6 +4,10 @@
  * Module dependencies.
  */
 
+function simulateData() {
+	console.log("as");
+}
+
 var program = require('commander');
 
 program
