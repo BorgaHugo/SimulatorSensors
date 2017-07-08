@@ -1,0 +1,19 @@
+{
+  "name": "simulator-sensors",
+  "version": "1.0.0",
+  "description": "This tool simulates capturing and sending of data to several types of sensors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorgaHugo/SimulatorSensors.git"
+  },
+  "author": "hugo.miguel.borga@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BorgaHugo/SimulatorSensors/issues"
+  },
+  "homepage": "https://github.com/BorgaHugo/SimulatorSensors#readme"
+}
